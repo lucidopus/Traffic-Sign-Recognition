@@ -134,4 +134,4 @@ uvicorn main:app --reload
 
 This project uses the German Traffic Sign Recognition Benchmark (GTSRB) dataset. Special thanks to the dataset creators and the open-source libraries that made this project possible.
 
-For access to the TrafficLensv API, please [send a request](mailto:harshilpatel30402@gmail.com?subject=Request%20for%20TrafficLens%20API%20Key) for an API key.
+For access to the TrafficLens API, please [send a request](mailto:harshilpatel30402@gmail.com?subject=Request%20for%20TrafficLens%20API%20Key) for an API key.
